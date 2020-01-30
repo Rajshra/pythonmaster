@@ -26,8 +26,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'author', #tell django -- which apps we have
+    #'author', #tell django -- which apps we have
 #    'book',
+    'ormmappings',
 ]
 
 MIDDLEWARE = [

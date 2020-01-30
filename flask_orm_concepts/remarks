@@ -1,0 +1,32 @@
+
+	win+r -- cmd
+
+
+	C:\users\Yogesh>python --version
+	C:\users\Yogesh>pip --version
+
+
+	C:\users\Yogesh>pip install virtualenv
+	C:\users\Yogesh>cd E:\pyworkspace\
+	E:\pyworkspace\>virtualenv venv
+
+		setuptools
+		wheel
+		pip
+	E:\pyworkspace\>venv\Scripts\activate
+	(venv)>pip install pymysql
+	(venv)>pip install flask
+	(venv)>pip install flask-sqlalchemy
+	(venv)>pip install c:\\users\yogesh\Downloads\mysqlclient.whl
+	(venv)> pip list
+	(venv)> pip freeze
+
+
+	Create one project-- open inside pycharm --
+			File--Settings-- project interpretter--
+				settings icon -- triple dot-- new-- browser---
+
+				venv\Scripts\python.exe
+
+
+
