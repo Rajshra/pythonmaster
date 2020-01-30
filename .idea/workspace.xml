@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5616844-ad50-4dd3-9645-5268131ed969" name="Default Changelist" comment="" />
+    <list default="true" id="f5616844-ad50-4dd3-9645-5268131ed969" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/copyformaster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578882421395</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sambhaji here...">
+      <created>1580366828043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580366828043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,10 +209,26 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sambhaji here..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sambhaji here..." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1580366823944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580366823944" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1580366688283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580366688283" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1580366858936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580366858936" />
+    <state x="404" y="168" key="git4idea.merge.GitPullDialog" timestamp="1580367784247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="168" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1580367784247" />
   </component>
 </project>
